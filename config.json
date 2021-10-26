@@ -1,0 +1,25 @@
+{
+    "token": "ODk4MTgxMjQ5ODAwMjE2NTg2.YWgeeQ.joPOy8yMTnn0bPKFnRuzTpi33sU", 
+    "prefix": "+",
+	  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",   
+    "ownerID": "724289543213285467",
+    "SpotifyID": "98abe823ef374a8cb81f5acb802f35cd",
+    "SpotifySecret": "296c484d192f4dbf8adb5223b6c5dd97",
+    "mongourl": "mongodb+srv://agility:agility@cluster0.n5hst.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "embedColor": "#303236",
+    "logs": "",
+     "nodes": [
+    
+    {
+     
+     
+      "host": "disbotlistlavalink.ml",
+      "port": 443,
+      "password": "LAVA",
+      "identifier": "lavamusic",
+      "retryAmount": 3,
+      "retryDelay": 3000,
+      "secure": true
+    }
+  ]
+}
